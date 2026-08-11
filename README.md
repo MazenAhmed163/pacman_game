@@ -1,5 +1,5 @@
 # pacman_game
-Overview: This is a Pac-Man game that game give me nostalgia we i was 7 because I play it all the day on my pc 
+Overview: This is a Pac-Man game that game give me nostalgia we I was 7 because I play it all the day on my pc 
 languages used: 
 HTML 
 CSS 
