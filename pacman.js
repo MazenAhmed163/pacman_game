@@ -1,6 +1,6 @@
 let board;
 const rowCount = 21;
-const columnCount = 19;
+const columnCount = 21;
 const tileSize = 32;
 const boardWidth = columnCount*tileSize;
 const boardHeight = rowCount*tileSize;
@@ -104,7 +104,7 @@ function loadMap() {
             const x = c*tileSize;
             const y = r*tileSize;
 
-            if (tileMapChar == 'X') { 
+            if (tileMapChar == 'x') { 
                 const wall = new Block(wallImage, x, y, tileSize, tileSize);
                 walls.add(wall);  
             }
